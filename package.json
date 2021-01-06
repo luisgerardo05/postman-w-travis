@@ -1,0 +1,22 @@
+{
+  "name": "postman-w-travis",
+  "version": "1.0.0",
+  "description": "Integrating with Travis CI",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgerardo05/postman-w-travis.git"
+  },
+  "author": "Luis Huerta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisgerardo05/postman-w-travis/issues"
+  },
+  "homepage": "https://github.com/luisgerardo05/postman-w-travis#readme"
+}
